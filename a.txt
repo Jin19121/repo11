@@ -3,4 +3,8 @@ b
 a
 c
 d
+<<<<<<< HEAD
+e
+=======
+>>>>>>> 34e5cb70718e0ebd67586d3a15cd6efb8f10a50a
 hey
